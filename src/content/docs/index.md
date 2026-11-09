@@ -9,12 +9,12 @@ The Markdown source is the same idea in both places: plain text in Git, reviewed
 
 ## Start reading
 
-- [What is Docs-as-Code?](/welcome/what-is-docs-as-code/)
-- [Markdown basics](/markdown/basics/)
-- [Creating diagrams with Mermaid](/markdown/mermaid/)
-- [Documentation review workflow](/workflow/review-workflow/)
-- [Comparison of static site generators](/static-site-generators/comparison/)
-- [Portfolio case study](/portfolio/docs-as-code-platform/)
+- [What is Docs-as-Code?](welcome/what-is-docs-as-code/)
+- [Markdown basics](markdown/basics/)
+- [Creating diagrams with Mermaid](markdown/mermaid/)
+- [Documentation review workflow](workflow/review-workflow/)
+- [Comparison of static site generators](static-site-generators/comparison/)
+- [Portfolio case study](portfolio/docs-as-code-platform/)
 
 ## What is included
 

@@ -224,4 +224,4 @@ It works because each change is plain text, versioned, reviewed, and published b
 
 ## Next Lesson
 
-[Why-Docs-as-Code](/welcome/why-docs-as-code/)
+[Why-Docs-as-Code](../why-docs-as-code/)
